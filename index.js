@@ -3,9 +3,9 @@ const express = require('express');
 const app = express();
 
 const CONFIG = {
-  host: 'chill-smp.funserver.top', // Sửa thành IP server của bạn
-  port: 25716,                              // Cổng server của bạn
-  username: 'bot-chill-',                    // Tên con bot
+  host: '46.224.46.226',
+  port: 25716,
+  username: 'bot-chill',
   version: false
 };
 
