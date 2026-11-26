@@ -6,7 +6,7 @@ const CONFIG = {
   host: '46.224.46.226',
   port: 25716,
   username: 'bot-chill',
-  version: false
+  version: '1.20.4'
 };
 
 app.get('/', (req, res) => res.send('Bot dang hoat dong!'));
