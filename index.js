@@ -3,8 +3,8 @@ const express = require('express');
 const app = express();
 
 const CONFIG = {
-  host: '46.224.46.226',
-  port: 25716,
+  host: '91.98.147.128',
+  port: 25929,
   username: 'bot-chill',
   version: '1.20.4'
 };
@@ -32,4 +32,3 @@ function createBot() {
 }
 
 createBot();
-
