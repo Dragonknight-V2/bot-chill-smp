@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 const CONFIG = {
-  host: '91.98.147.128',
+  host: '46.224.46.226:25929',
   port: 25929,
   username: 'bot-chill',
   version: '1.20.4'
