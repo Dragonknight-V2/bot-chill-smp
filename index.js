@@ -5,7 +5,7 @@ const app = express();
 const CONFIG = {
   host: '5.9.41.143',
   port: 30172,
-  username: 'bot-chill',
+  username: 'BotChill',
   version: '1.20.4'
 };
 
